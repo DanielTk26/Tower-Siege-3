@@ -73,6 +73,8 @@ function setup() {
 }
 
 function draw() {
+ background("purple");
+
  if(backgroundImg)
     background(backgroundImg);
 
